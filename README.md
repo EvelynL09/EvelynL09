@@ -1,7 +1,7 @@
 ### Hello World!!! 👋
 
 - I'm graduating in Dec 2020 from UCLA with B.S degree in Computer Science.
-- I'm looking for full-time software engineering job
+- I'm actively looking for a full-time software engineering job.
 - Pronouns: She/Her/Hers
 
 <!--
