@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World!!! 👋
+
+- I'm graduating in Dec 2020 from UCLA with B.S degree in Computer Science.
+- I'm looking for full-time software engineering job
+- Pronouns: She/Her/Hers
 
 <!--
 **EvelynL09/EvelynL09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
