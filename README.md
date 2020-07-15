@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Haiwei's github stats](https://github-readme-stats.vercel.app/api?username=EvelynL09&show_icons=true&hide_border=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Haiwei's github stats](https://github-readme-stats.vercel.app/api?username=EvelynL09&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Haiwei's github stats](https://github-readme-stats.vercel.app/api?username=EvelynL09&show_icons=true&hide_border=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--Github Stats Resource: https://github.com/anuraghazra/github-readme-stats-->
