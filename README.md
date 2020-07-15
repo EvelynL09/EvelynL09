@@ -1,6 +1,6 @@
 ### Hello World!!! 👋![Profile Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FEvelynL09)
 
-- I'm graduating in Dec 2020 from UCLA with B.S degree in Computer Science.
+- 🌱 I'm graduating in Dec 2020 from UCLA with B.S degree in Computer Science.
 - 🔭 I'm actively looking for a full-time software engineering job. Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/haiwei-lu-0109/).
 - 😄 Pronouns: She/Her/Hers
 
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-[![Haiwei's github stats](https://github-readme-stats.vercel.app/api?username=EvelynL09)](https://github.com/anuraghazra/github-readme-stats)
+[![Haiwei's github stats](https://github-readme-stats.vercel.app/api?username=EvelynL09&show_icons=true&hide_border=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--Github Stats Resource: https://github.com/anuraghazra/github-readme-stats-->
