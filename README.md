@@ -1,8 +1,8 @@
 ### Hello World!!! 👋![Profile Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FEvelynL09)
 
 - I'm graduating in Dec 2020 from UCLA with B.S degree in Computer Science.
-- I'm actively looking for a full-time software engineering job.
-- Pronouns: She/Her/Hers
+- 🔭 I'm actively looking for a full-time software engineering job. Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/haiwei-lu-0109/).
+- 😄 Pronouns: She/Her/Hers
 
 <!--
 **EvelynL09/EvelynL09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Haiwei's github stats](https://github-readme-stats.vercel.app/api?username=EvelynL09)](https://github.com/anuraghazra/github-readme-stats)
