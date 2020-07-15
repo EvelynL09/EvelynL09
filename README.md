@@ -1,5 +1,5 @@
 ### Hello World!!! 👋
-
+![Profile Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FEvelynL09)
 - I'm graduating in Dec 2020 from UCLA with B.S degree in Computer Science.
 - I'm actively looking for a full-time software engineering job.
 - Pronouns: She/Her/Hers
