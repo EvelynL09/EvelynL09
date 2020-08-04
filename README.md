@@ -3,7 +3,7 @@
 - 🌱 I'm graduating in Dec 2020 from University of California, Los Angeles (UCLA) with a B.S degree in Computer Science. 
 - 🔭 I'm actively looking for a full-time software engineering job. Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/haiwei-lu-0109/).
 - 😄 Pronouns: She/Her/Hers
-
+---
 - 🌱 我将于2020年12月中旬毕业于加州大学洛杉矶分校（UCLA）工程与应用科学学院，并获得计算机科学专业的理学学士学位。
 - 🔭 我正在积极寻找全职的软件开发工作。欢迎通过[领英](https://www.linkedin.com/in/haiwei-lu-0109/?locale=zh_CN)与我联系。
 - 😄 人称代词: 她
